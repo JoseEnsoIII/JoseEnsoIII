@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EnsoIII</h1>
-<h3 align="center">A passionate front-end developer from Philippines.</h3>
+<h3 align="center">"Motivated Front-End Web Developer with A Passion For Creating Intuitive And Visually Appealing User Experiences. Proficient in HTML, CSS, JavaScript, And Popular Frameworks And Libraries. Looking to Join A Team Of Like-Minded Developers And Contribute To The Success Of A Dynamic Organization."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseensoiii&label=Profile%20views&color=0e75b6&style=flat" alt="joseensoiii" /> </p>
 
