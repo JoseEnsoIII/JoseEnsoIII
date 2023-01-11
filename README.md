@@ -7,6 +7,8 @@
 
 - 🔭 I’m looking for a job **Front-End Web Developer**
 
+- <a href="Resume/EnsoIII" >Visit My Resume Here:</a>
+
 - 🌱 I’m currently learning **Web development, React**
 
 - 👨‍💻 All of my projects are available at this account.
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **joseensothethird@gmail.com**
 
-- 📄 Know about my experiences (Internship @UIP)
+-  Know about my experiences (Internship @UIP)
 
 - about me **Im Graduate of Computer Engineering @BCP**
 
@@ -37,4 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseensoiii&" alt="joseensoiii" /></p>
 
 
-<a href="Resume/EnsoIII" >Visit My Resume Here:</a>
+
