@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Web development, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JoseEnsoIII](https://github.com/JoseEnsoIII)
+- 👨‍💻 All of my projects are available at this account.
 
 - 💬 Ask me about **html, css, js and React**
 
 - 📫 How to reach me **joseensothethird@gmail.com**
 
-- 📄 Know about my experiences [Internship @UIP](Internship @UIP)
+- 📄 Know about my experiences (Internship @UIP)
 
 - about me **Im Graduate of Computer Engineering @BCP**
 
@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseensoiii&" alt="joseensoiii" /></p>
 
 
-<a href="Resume/EnsoIII" download class="download-button">Download My Resume</a>
+<a href="Resume/EnsoIII" >Visit My Resume Here:</a>
