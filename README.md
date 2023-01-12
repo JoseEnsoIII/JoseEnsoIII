@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseensoiii" alt="joseensoiii" /></a> </p>
 
-- 🔭 I’m looking for a job **Front-End Web Developer**
+- 🔭 I’m looking for a job **Junior Web developer/Front-End Web Developer**
 
-- <a href="Resume/EnsoIII" ><p>Visit My Resume</p> Here:</a>
+-   <p>Visit My Web Resume <a href="Resume/EnsoIII">Here:</a></p>
 
-- 🌱 I’m currently learning **Web development, React**
+- 🌱 I’m currently learning **Fromt-End Web development**
 
 - 👨‍💻 All of my projects are available at this account.
 
@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **joseensothethird@gmail.com**
 
--  Know about my experiences (Internship @UIP)
+- My experiences :Internship @UIP
 
-- about me **Im Graduate of Computer Engineering @BCP**
+- My Educational background: Graduate of Computer Engineering @BCP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
