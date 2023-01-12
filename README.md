@@ -17,15 +17,15 @@
 
 - 📫 How to reach me **joseensothethird@gmail.com**
 
-- My experiences :Internship @UIP
+- 📄 My experiences :Internship @UIP
 
-- My Educational background: Graduate of Computer Engineering @BCP
+- 📄 My Educational background: Graduate of Computer Engineering @BCP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ensoiii,jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ensoiii,jose" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jose enso iii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose enso iii" height="30" width="40" /></a>
-<a href="https://fb.com/enso jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enso jose" height="30" width="40" /></a>
+<a href="https://twitter.com/jjam-event" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ensoiii,jose" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-enso-iii-0a44771b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose enso iii" height="30" width="40" /></a>
+<a href="https://web.facebook.com/enso.jose.31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enso jose" height="30" width="40" /></a>
 <a href="https://instagram.com/ensojose1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ensojose1999" height="30" width="40" /></a>
 </p>
 
