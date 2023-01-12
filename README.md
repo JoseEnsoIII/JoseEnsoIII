@@ -7,7 +7,7 @@
 
 - 🔭 I’m looking for a job **Front-End Web Developer**
 
-- <a href="Resume/EnsoIII" >Visit My Resume Here:</a>
+- <a href="Resume/EnsoIII" ><p>Visit My Resume</p> Here:</a>
 
 - 🌱 I’m currently learning **Web development, React**
 
