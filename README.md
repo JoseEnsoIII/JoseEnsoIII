@@ -7,8 +7,6 @@
 
 - 🔭 I’m looking for a job **Junior Web developer/Front-End Web Developer**
 
-- 📄 <p>Visit My Web Resume <a href="Resume/EnsoIII">Here:</a></p>
-
 - 🌱 I’m currently learning **Fromt-End Web development**
 
 - 👨‍💻 All of my projects are available at this account.
@@ -20,6 +18,8 @@
 - 📄 My experiences :Internship @UIP
 
 - 📄 My Educational background: Graduate of Computer Engineering @BCP
+
+-   <p>Visit My Web Resume <a href="Resume/EnsoIII">Here:</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
