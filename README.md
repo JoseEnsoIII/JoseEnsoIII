@@ -19,7 +19,7 @@
 
 - 📄 My Educational background: Graduate of Computer Engineering @BCP
 
--   <p>Visit My Web Resume <a href="https://joseensoiii.github.io/MyResume/">Here:</a></p>
+- 📄 <p>Visit My Web Resume <a href="https://joseensoiii.github.io/MyResume/">Here:</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
