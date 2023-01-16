@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html, css, js and React**
 
-- 📫 How to reach me **joseensothethird@gmail.com**
+- 📫 How to reach me? Send Gmail:**joseensothethird@gmail.com**
 
 - 📄 My experiences :Internship @UIP
 
