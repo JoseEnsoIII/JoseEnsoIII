@@ -7,7 +7,7 @@
 
 - 🔭 I’m looking for a job **Junior Web developer/Front-End Web Developer**
 
-- 🌱 I’m currently learning **Fromt-End Web development**
+- 🌱 I’m currently learning **Front-End Web development**
 
 - 👨‍💻 All of my projects are available at this account.
 
