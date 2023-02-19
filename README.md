@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at this account.
 
-- 💬 Ask me about **html, css, js and React**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT and REACT**
 
 - 📫 How to reach me? Send Gmail@**joseensothethird@gmail.com**
 
-- 📄 My experiences :Internship @UIP
+- 📄 My experiences: <br>Internship @NPO (NATIONAL PRINTING OFFICE).
 
-- 📄 My Educational background: Graduate of Computer Engineering @BCP
+- 📄 My Educational background: Graduate of Computer Engineering @Bestlink College of the Philippines 
 <p>Visit My Web Resume <a href="https://joseensoiii.github.io/RESUME/">Here:</a></p>
 
 <h3 align="left">Connect with me:</h3>
