@@ -15,7 +15,7 @@
 
 - 📫 How to reach me? Send Gmail@**joseensothethird@gmail.com**
 
-- 📄 My experiences: <br>Internship @NPO (NATIONAL PRINTING OFFICE).
+- 📄 My experiences: <br>Internship METACORE SYSTEMS INC. As a Web Dev.
 
 - 📄 My Educational background: Graduate of Computer Engineering @Bestlink College of the Philippines 
 <p>Visit My Web Resume <a href="https://joseensoiii.github.io/RESUME/">Here:</a></p>
