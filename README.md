@@ -7,11 +7,11 @@
 
 - 🔭 I’m looking for a job **Junior Web developer/Front-End Web Developer**
 
-- 🌱 I’m currently learning **Front-End Web development**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at this account.
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT and REACT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT and IoT Projects**
 
 - 📫 How to reach me? Send Gmail@**joseensothethird@gmail.com**
 
