@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseensoiii" alt="joseensoiii" /></a> </p>
 
-- 🔭 I’m looking for a job **Junior Web developer/Front-End Web Developer**
+- 🔭 I’m looking for a job **Junior Web developer/React.js Developer**
 
 - 🌱 I’m currently learning **Python**
 
