@@ -19,9 +19,11 @@
 <a href="https://www.linkedin.com/in/jose-ensoiii/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="linkedin logo" />
 </a>
-Portfolio:
+
 
 <div align="left">
+  Portfolio:
+  <br>
  <kbd style="display: inline-block; padding: 5px 10px; border: 1px solid #ccc; background-color: #190170; color: white; font-family: Arial, sans-serif; height: 50px; line-height: 35px;">
   <br>
   <a href="https://personal-portfolio-tau-virid.vercel.app/" style="color: white; text-decoration: none;">Click me</a>
