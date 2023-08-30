@@ -24,7 +24,7 @@
 <div align="left">
   Portfolio:
   <br>
- <kbd style="display: inline-block; padding: 5px 10px; border: 1px solid #ccc; background-color: #190170; color: white; font-family: Arial, sans-serif; height: 50px; line-height: 35px;">
+ <kbd style="display: inline-block; padding: 5px 10px; border: 1px solid #000; background-color: #190170; color: white; font-family: Arial, sans-serif; height: 50px; line-height: 35px;">
  
   <a href="https://personal-portfolio-tau-virid.vercel.app/" style="color: white; text-decoration: none;">Click me</a>
   <br>
