@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm EnsoIII</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseensoiii&label=Profile%20views&color=0e75b6&style=flat" alt="joseensoiii" /> </p>
-<h3 align="center">"Motivated Front-End Web Developer with A Passion For Creating Intuitive And Visually Appealing User Experiences. Proficient in HTML, CSS, JavaScript, And Popular Frameworks And Libraries. Looking to Join A Team Of Like-Minded Developers And Contribute To The Success Of A Dynamic Organization."</h3>
+<h3 align="center">"Motivated MERN Stack Developer with a Passion for Building Dynamic and Responsive Web Applications. Proficient in MongoDB, Express, React, and Node.js. Eager to Collaborate with a Team of Like-Minded Developers and Contribute to the Success of a Dynamic Organization."</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
