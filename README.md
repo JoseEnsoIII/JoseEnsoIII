@@ -23,13 +23,13 @@
 
 
 <div align="left">
- <kbd style="display: inline-block; padding: 5px 10px; border: 1px solid #000; background-color: #190170; color: white; font-family: Arial, sans-serif; height: 50px; line-height: 50px;">
- 
-  <a href="https://personal-portfolio-tau-virid.vercel.app/" style="color: white; text-decoration: none;">Portfolio</a>
-  <br>
-</kbd>
-
+  <a href="https://personal-portfolio-tau-virid.vercel.app/" style="text-decoration: none;">
+    <button style="padding: 50px 50px; border: 2px solid #0074e4; background-color: #0074e4; color: white; font-family: 'Gotham', sans-serif; height: 50px; line-height: 40px; cursor: pointer;">
+      Portfolio
+    </button>
+  </a>
 </div>
+
  <br>
   <br>
 <table><tr><td valign="top" width="25%">
