@@ -20,18 +20,12 @@
 <a href="https://www.linkedin.com/in/jose-ensoiii/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="linkedin logo" />
 </a>
+<a href="[https://www.linkedin.com/in/jose-ensoiii/](https://personal-portfolio-tau-virid.vercel.app/)">
+  <img src="https://img.shields.io/badge/Portfolio-%23009639.svg?style=for-the-badge&logo=Hyperledger&logoColor=white"  height="35" alt="Portfolio logo" />
+</a>
 
 
-<div align="left">
-  <a href="https://personal-portfolio-tau-virid.vercel.app/" style="text-decoration: none;">
-    <button style="padding: 50px 50px; border: 2px solid #0074e4; background-color: #0074e4; color: white; font-family: 'Gotham', sans-serif; height: 50px; line-height: 40px; cursor: pointer;">
-      Portfolio
-    </button>
-  </a>
-</div>
 
- <br>
-  <br>
 <table><tr><td valign="top" width="25%">
 
 
